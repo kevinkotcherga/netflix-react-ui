@@ -27,7 +27,7 @@ const Featured = ({type}) => {
       )}
 
       <img
-        src="https://images.pexels.com/photos/6899260/pexels-photo-6899260.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+        src="https://media.senscritique.com/media/000020329409/1200/spider_man_no_way_home.png"
         alt=""
       />
       <div className="info">
