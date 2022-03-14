@@ -27,12 +27,12 @@ const Featured = ({type}) => {
       )}
 
       <img
-        src="https://media.senscritique.com/media/000020329409/1200/spider_man_no_way_home.png"
+        src="https://images3.alphacoders.com/795/thumb-1920-79587.jpg"
         alt=""
       />
       <div className="info">
         <img
-          src="https://occ-0-1432-1433.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUZdeG1DrMstq-YKHZ-dA-cx2uQN_YbCYx7RABDk0y7F8ZK6nzgCz4bp5qJVgMizPbVpIvXrd4xMBQAuNe0xmuW2WjoeGMDn1cFO.webp?r=df1"
+          src="https://www.pngmart.com/files/15/Avatar-Logo-PNG-Clipart.png"
           alt=""
         />
         <span className='desc'>
