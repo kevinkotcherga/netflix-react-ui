@@ -27,7 +27,7 @@ const Featured = ({type}) => {
       )}
 
       <img
-        src="https://images3.alphacoders.com/795/thumb-1920-79587.jpg"
+        src="https://wallpaperaccess.com/full/861767.jpg"
         alt=""
       />
       <div className="info">
